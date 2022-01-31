@@ -1,0 +1,12 @@
+{
+  "name": "Wolf #457",
+  "description": "Wolfz NFTs",
+  "image": "https://raw.githubusercontent.com/Leroy202023/Wolfz-NFTS/main/wolfz/457.png",
+  "edition": 457,
+  "attributes": [
+    {
+      "trait_type": "image",
+      "value": "image"
+    }
+  ]
+}

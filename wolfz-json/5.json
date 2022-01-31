@@ -1,6 +1,12 @@
 {
-  "name": "Wolfz #5",
-  "description": "Wolfz NFT collection on SmartBCH",
-  "image": "https://raw.githubusercontent.com/Leroy202023/Wolfz-NFTS/main/wolfz/5.jpg",
-  "edition": 5
+  "name": "Wolf #5",
+  "description": "Wolfz NFTs",
+  "image": "https://raw.githubusercontent.com/Leroy202023/Wolfz-NFTS/main/wolfz/5.png",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "image",
+      "value": "image"
+    }
+  ]
 }
